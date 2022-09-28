@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kenso\\Downloads\\IMS\\IMS.Core\\IMS.Core.csproj": {}
+    "C:\\Portfolio Projects\\IMS-LargeProjArch\\IMS.Core\\IMS.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kenso\\Downloads\\IMS\\IMS.Core\\IMS.Core.csproj": {
+    "C:\\Portfolio Projects\\IMS-LargeProjArch\\IMS.Core\\IMS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kenso\\Downloads\\IMS\\IMS.Core\\IMS.Core.csproj",
+        "projectUniqueName": "C:\\Portfolio Projects\\IMS-LargeProjArch\\IMS.Core\\IMS.Core.csproj",
         "projectName": "IMS.Core",
-        "projectPath": "C:\\Users\\kenso\\Downloads\\IMS\\IMS.Core\\IMS.Core.csproj",
+        "projectPath": "C:\\Portfolio Projects\\IMS-LargeProjArch\\IMS.Core\\IMS.Core.csproj",
         "packagesPath": "C:\\Users\\kenso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kenso\\Downloads\\IMS\\IMS.Core\\obj\\",
+        "outputPath": "C:\\Portfolio Projects\\IMS-LargeProjArch\\IMS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kenso\\AppData\\Roaming\\NuGet\\NuGet.Config",

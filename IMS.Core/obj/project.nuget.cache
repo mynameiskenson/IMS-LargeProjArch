@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KFfuM4iBYpcfdVcx40ubYbiyRD4I8uxbW6tytghx7prUrAPiIghGI/d6j4FNxHn1sKJRhRMy8kk5l7b2xYl/vw==",
+  "dgSpecHash": "D1SHyWVcZj9uTKEQCD5nuXsGnfhKErU9tc7RzqXwsj6OEtkzDCvxLdNESENm1kHyUfMc6HT/Msc3sePZW4LVbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kenso\\Downloads\\IMS\\IMS.Core\\IMS.Core.csproj",
+  "projectFilePath": "C:\\Portfolio Projects\\IMS-LargeProjArch\\IMS.Core\\IMS.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenso\\.nuget\\packages\\microsoft.jsinterop\\6.0.9\\microsoft.jsinterop.6.0.9.nupkg.sha512"
   ],

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TlWgOFzIaAMQnUtK/gkbJBjsazkWukkhUAXP4fIlLBi4exk53oZ9ue5uDdcSeacs3FrZX8/hmmR6uvixIDcMPg==",
+  "dgSpecHash": "CnZcbOwZYq8FF43z/RRSMvFQhU/Zrp3to/YUE1wTvKY79UexLSirPc1VD/DHlCYWzGAOlde8bs/8Zsm0kTS2jQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kenso\\Downloads\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
+  "projectFilePath": "C:\\Portfolio Projects\\IMS-LargeProjArch\\IMS.WebApp\\IMS.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenso\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\kenso\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
