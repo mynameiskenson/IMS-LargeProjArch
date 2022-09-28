@@ -1,0 +1,17 @@
+C:\Users\kenson.manduyag\source\repos\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Infrastructure.deps.json
+C:\Users\kenson.manduyag\source\repos\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Infrastructure.runtimeconfig.json
+C:\Users\kenson.manduyag\source\repos\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Infrastructure.dll
+C:\Users\kenson.manduyag\source\repos\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Infrastructure.pdb
+C:\Users\kenson.manduyag\source\repos\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Core.dll
+C:\Users\kenson.manduyag\source\repos\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Core.pdb
+C:\Users\kenson.manduyag\source\repos\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\kenson.manduyag\source\repos\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenson.manduyag\source\repos\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kenson.manduyag\source\repos\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.AssemblyInfo.cs
+C:\Users\kenson.manduyag\source\repos\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kenson.manduyag\source\repos\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.csproj.CopyComplete
+C:\Users\kenson.manduyag\source\repos\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.dll
+C:\Users\kenson.manduyag\source\repos\IMS\IMS.Infrastructure\obj\Debug\net6.0\refint\IMS.Infrastructure.dll
+C:\Users\kenson.manduyag\source\repos\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.pdb
+C:\Users\kenson.manduyag\source\repos\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.genruntimeconfig.cache
+C:\Users\kenson.manduyag\source\repos\IMS\IMS.Infrastructure\obj\Debug\net6.0\ref\IMS.Infrastructure.dll
